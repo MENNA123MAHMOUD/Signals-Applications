@@ -9,3 +9,5 @@
   then compress each block using 2D Discrete Cosine Transform (2D DCT)
   
 > Image Decompression by applying inverse 2D DCT to each block
+
+## 3) Audio Steganography
